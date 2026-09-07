@@ -240,9 +240,7 @@ Configuration-Driven UI • Security • Enterprise Architecture
 </p>
 
 <p>
-<a href="YOUR_CONFIGURATION_DRIVEN_REPOSITORY_URL">
-  🔗 View Project Repository
-</a>
+
 </p>
 
 <hr>
@@ -282,9 +280,7 @@ Churn Detection • Maintainability • Legacy Automation Integration
 </p>
 
 <p>
-<a href="YOUR_RENEWAL_FORECASTING_REPOSITORY_URL">
-  🔗 View Project Repository
-</a>
+
 </p>
 
 <hr>
@@ -321,9 +317,7 @@ Integration Reliability • Scalability • AI • Production Stability
 </p>
 
 <p>
-<a href="YOUR_FSC_REPOSITORY_URL">
-  🔗 View Project Repository
-</a>
+
 </p>
 
 <hr>
